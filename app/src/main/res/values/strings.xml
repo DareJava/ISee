@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Isee</string>
+    <string name="loginOrRegister">Login/Register</string>
+    <string name="loginAndRegister">Login</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="recoverText">Please enter recovery e-mail or cell phone number.</string>
+    <string name="categories">Categories</string>
+    <string name="capture">Capture</string>
+    <string name="cancel">Cancel</string>
+    <string name="now_trending">Trending right now!</string>
+    <string name="test_desc">The_badt_guy jumped over the fence and ran away from the view and decided to be a don of the universe</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="filter_category">Search By Category</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="like_post">Like Post</string>
+    <string name="captureFromCam">Capture from Camera</string>
+    <string name="captureFromFile">Capture from Phone</string>
+    <string name="enter_comment">Please enter your comment :</string>
+    <string name="tac">I have also agreed to terms and conditon as stated.</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email/CellPhone</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="recover_password">Recover password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_filtered_list">FilteredList</string>
+</resources>
